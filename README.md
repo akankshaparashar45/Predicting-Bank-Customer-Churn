@@ -8,16 +8,16 @@ Customer churn is a critical issue in the banking sector. Identifying potential 
 * Formulate strategies to combat churn rate
 * Prevent revenue loss
 # Dataset
-- The dataset represents customer data from a bank.
-- It was provided by an educational institute for academic purposes.
-- The dataset contains 10,000 customer records with 14 features each.
+- The dataset represents customer data from a bank
+- It was provided by an educational institute for academic purposes
+- The dataset contains 10,000 customer records with 14 features each
 # Installation
 * Install dependencies locally
-<pre> ```bash pip install -r requirements.txt ``` </pre>
+```bash pip install -r requirements.txt ``` 
 Note: Make sure you have Python 3.8+ and pip installed.
 * Or run on Google Colab
-You can also open the Jupyter notebook directly in Google Colab without installing anything locally.
-Note: Make sure to upload the dataset and required files to your Colab environment or mount Google Drive.
+- You can also open the Jupyter notebook directly in Google Colab without installing anything locally.
+- Note: Make sure to upload the dataset and required files to your Colab environment or mount Google Drive.
 # Methodology
 * Data Overview
 * Exploratory Data Analysis
