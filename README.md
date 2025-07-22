@@ -11,6 +11,8 @@ Customer churn is a critical issue in the banking sector. Identifying potential 
 - The dataset represents customer data from a bank
 - It was provided by an educational institute for academic purposes
 - The dataset contains 10,000 customer records with 14 features each
+
+Note: The dataset is restricted and cannot be shared publicly. Practice with any publicly available bank churn datasets (e.g., from Kaggle). Replace the dataset with your own CSV file to replicate the analysis.
 # Installation
 * Option 1: Install dependencies locally
   
