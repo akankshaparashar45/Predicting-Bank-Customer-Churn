@@ -25,7 +25,7 @@ Customer churn is a critical issue in the banking sector. Identifying potential 
   - You can also open the Jupyter notebook directly in Google Colab without installing anything locally.
   - Note: Make sure to upload the dataset and required files to your Colab environment or mount Google Drive.
 # Methodology
-used in Bank_Customer_Churn.py
+used in Bank_Churn_Prediction.py
 * Data Overview
 * Exploratory Data Analysis
 * Data Preprocessing
