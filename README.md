@@ -14,14 +14,16 @@ Customer churn is a critical issue in the banking sector. Identifying potential 
 # Installation
 * Option 1: Install dependencies locally
   
-```bash pip install -r requirements.txt```
+```bash 
+pip install -r requirements.txt
+```
  
-Note: Make sure you have Python 3.8+ and pip installed.
+  Note: Make sure you have Python 3.8+ and pip installed.
 
 * Option 2:  Run on Google Colab
 
-- You can also open the Jupyter notebook directly in Google Colab without installing anything locally.
-- Note: Make sure to upload the dataset and required files to your Colab environment or mount Google Drive.
+  - You can also open the Jupyter notebook directly in Google Colab without installing anything locally.
+  - Note: Make sure to upload the dataset and required files to your Colab environment or mount Google Drive.
 # Methodology
 * Data Overview
 * Exploratory Data Analysis
